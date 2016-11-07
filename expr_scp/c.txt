@@ -1,0 +1,285 @@
+1------------
+inital solution size 46
+find optimal..
+final best:43
+search steps is 48658, seed is 10
+time cost 0.440000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 197489, seed is 11
+time cost 1.750000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 137501, seed is 12
+time cost 1.210000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 41626, seed is 13
+time cost 0.380000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 59349, seed is 14
+time cost 0.530000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 177364, seed is 15
+time cost 1.540000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 115157, seed is 16
+time cost 1.010000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 118823, seed is 17
+time cost 1.070000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 106778, seed is 18
+time cost 0.960000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 189102, seed is 19
+time cost 1.660000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 254194, seed is 20
+time cost 2.200000 s
+
+2------------
+inital solution size 48
+find optimal..
+final best:43
+search steps is 179764, seed is 10
+time cost 1.580000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 84276, seed is 11
+time cost 0.770000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 155010, seed is 12
+time cost 1.370000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 22605, seed is 13
+time cost 0.210000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 138907, seed is 14
+time cost 1.220000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 311328, seed is 15
+time cost 2.710000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 94329, seed is 16
+time cost 0.850000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 200313, seed is 17
+time cost 1.770000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 104174, seed is 18
+time cost 0.910000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 144238, seed is 19
+time cost 1.260000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 178733, seed is 20
+time cost 1.560000 s
+
+3------------
+inital solution size 47
+find optimal..
+final best:43
+search steps is 154881, seed is 10
+time cost 1.360000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 153902, seed is 11
+time cost 1.370000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 83182, seed is 12
+time cost 0.740000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 204098, seed is 13
+time cost 1.800000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 169730, seed is 14
+time cost 1.470000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 126201, seed is 15
+time cost 1.110000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 95154, seed is 16
+time cost 0.850000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 243050, seed is 17
+time cost 2.110000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 69454, seed is 18
+time cost 0.610000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 32907, seed is 19
+time cost 0.300000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 90777, seed is 20
+time cost 0.800000 s
+
+4------------
+inital solution size 47
+find optimal..
+final best:43
+search steps is 77564, seed is 10
+time cost 0.710000 s
+inital solution size 49
+find optimal..
+final best:43
+search steps is 27265, seed is 11
+time cost 0.250000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 94583, seed is 12
+time cost 0.810000 s
+inital solution size 49
+find optimal..
+final best:43
+search steps is 145035, seed is 13
+time cost 1.260000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 87145, seed is 14
+time cost 0.790000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 92068, seed is 15
+time cost 0.810000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 13801, seed is 16
+time cost 0.130000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 50466, seed is 17
+time cost 0.450000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 55333, seed is 18
+time cost 0.520000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 93440, seed is 19
+time cost 0.830000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 227613, seed is 20
+time cost 1.970000 s
+
+5------------
+inital solution size 46
+find optimal..
+final best:43
+search steps is 114368, seed is 10
+time cost 1.050000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 928826, seed is 11
+time cost 7.960000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 174380, seed is 12
+time cost 1.520000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 176878, seed is 13
+time cost 1.560000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 569103, seed is 14
+time cost 4.950000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 290271, seed is 15
+time cost 2.620000 s
+inital solution size 47
+find optimal..
+final best:43
+search steps is 63100, seed is 16
+time cost 0.570000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 447876, seed is 17
+time cost 3.940000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 562189, seed is 18
+time cost 4.880000 s
+inital solution size 48
+find optimal..
+final best:43
+search steps is 169729, seed is 19
+time cost 1.560000 s
+inital solution size 46
+find optimal..
+final best:43
+search steps is 476406, seed is 20
+time cost 4.080000 s
+

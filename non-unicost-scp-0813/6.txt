@@ -1,0 +1,260 @@
+1----------
+initial solution:159
+optimum found
+final best:138
+search steps is 1399, seed is 11
+time cost 0.020000 s
+initial solution:159
+optimum found
+final best:138
+search steps is 853, seed is 12
+time cost 0.010000 s
+initial solution:159
+optimum found
+final best:138
+search steps is 2591, seed is 13
+time cost 0.020000 s
+initial solution:159
+optimum found
+final best:138
+search steps is 2320, seed is 14
+time cost 0.020000 s
+initial solution:159
+optimum found
+final best:138
+search steps is 2591, seed is 15
+time cost 0.020000 s
+initial solution:159
+optimum found
+final best:138
+search steps is 1189, seed is 16
+time cost 0.000000 s
+initial solution:159
+optimum found
+final best:138
+search steps is 2270, seed is 17
+time cost 0.010000 s
+initial solution:159
+optimum found
+final best:138
+search steps is 1877, seed is 18
+time cost 0.010000 s
+initial solution:159
+optimum found
+final best:138
+search steps is 2087, seed is 19
+time cost 0.010000 s
+initial solution:159
+optimum found
+final best:138
+search steps is 1245, seed is 20
+time cost 0.000000 s
+
+2----------
+initial solution:170
+optimum found
+final best:146
+search steps is 101, seed is 11
+time cost 0.000000 s
+initial solution:170
+optimum found
+final best:146
+search steps is 496, seed is 12
+time cost 0.000000 s
+initial solution:170
+optimum found
+final best:146
+search steps is 396, seed is 13
+time cost 0.000000 s
+initial solution:170
+optimum found
+final best:146
+search steps is 500, seed is 14
+time cost 0.000000 s
+initial solution:170
+optimum found
+final best:146
+search steps is 280, seed is 15
+time cost 0.000000 s
+initial solution:170
+optimum found
+final best:146
+search steps is 794, seed is 16
+time cost 0.000000 s
+initial solution:170
+optimum found
+final best:146
+search steps is 1329, seed is 17
+time cost 0.010000 s
+initial solution:170
+optimum found
+final best:146
+search steps is 269, seed is 18
+time cost 0.000000 s
+initial solution:170
+optimum found
+final best:146
+search steps is 425, seed is 19
+time cost 0.000000 s
+initial solution:170
+optimum found
+final best:146
+search steps is 309, seed is 20
+time cost 0.000000 s
+
+3----------
+initial solution:161
+optimum found
+final best:145
+search steps is 411, seed is 11
+time cost 0.000000 s
+initial solution:161
+optimum found
+final best:145
+search steps is 397, seed is 12
+time cost 0.000000 s
+initial solution:161
+optimum found
+final best:145
+search steps is 1076, seed is 13
+time cost 0.000000 s
+initial solution:161
+optimum found
+final best:145
+search steps is 214, seed is 14
+time cost 0.000000 s
+initial solution:161
+optimum found
+final best:145
+search steps is 239, seed is 15
+time cost 0.000000 s
+initial solution:161
+optimum found
+final best:145
+search steps is 351, seed is 16
+time cost 0.010000 s
+initial solution:161
+optimum found
+final best:145
+search steps is 125, seed is 17
+time cost 0.000000 s
+initial solution:161
+optimum found
+final best:145
+search steps is 1317, seed is 18
+time cost 0.010000 s
+initial solution:161
+optimum found
+final best:145
+search steps is 94, seed is 19
+time cost 0.000000 s
+initial solution:161
+optimum found
+final best:145
+search steps is 298, seed is 20
+time cost 0.000000 s
+
+4----------
+initial solution:149
+optimum found
+final best:131
+search steps is 260, seed is 11
+time cost 0.000000 s
+initial solution:149
+optimum found
+final best:131
+search steps is 1128, seed is 12
+time cost 0.000000 s
+initial solution:149
+optimum found
+final best:131
+search steps is 1027, seed is 13
+time cost 0.010000 s
+initial solution:149
+optimum found
+final best:131
+search steps is 319, seed is 14
+time cost 0.000000 s
+initial solution:149
+optimum found
+final best:131
+search steps is 391, seed is 15
+time cost 0.000000 s
+initial solution:149
+optimum found
+final best:131
+search steps is 74, seed is 16
+time cost 0.000000 s
+initial solution:149
+optimum found
+final best:131
+search steps is 444, seed is 17
+time cost 0.000000 s
+initial solution:149
+optimum found
+final best:131
+search steps is 494, seed is 18
+time cost 0.000000 s
+initial solution:149
+optimum found
+final best:131
+search steps is 273, seed is 19
+time cost 0.000000 s
+initial solution:149
+optimum found
+final best:131
+search steps is 246, seed is 20
+time cost 0.000000 s
+
+5----------
+initial solution:196
+optimum found
+final best:161
+search steps is 1327, seed is 11
+time cost 0.010000 s
+initial solution:196
+optimum found
+final best:161
+search steps is 1165, seed is 12
+time cost 0.000000 s
+initial solution:196
+optimum found
+final best:161
+search steps is 2406, seed is 13
+time cost 0.020000 s
+initial solution:196
+optimum found
+final best:161
+search steps is 979, seed is 14
+time cost 0.010000 s
+initial solution:196
+optimum found
+final best:161
+search steps is 614, seed is 15
+time cost 0.010000 s
+initial solution:196
+optimum found
+final best:161
+search steps is 187, seed is 16
+time cost 0.000000 s
+initial solution:196
+optimum found
+final best:161
+search steps is 635, seed is 17
+time cost 0.000000 s
+initial solution:196
+optimum found
+final best:161
+search steps is 628, seed is 18
+time cost 0.000000 s
+initial solution:196
+optimum found
+final best:161
+search steps is 668, seed is 19
+time cost 0.000000 s
+initial solution:196
+optimum found
+final best:161
+search steps is 640, seed is 20
+time cost 0.000000 s
+

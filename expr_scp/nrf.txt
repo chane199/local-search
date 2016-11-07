@@ -1,0 +1,285 @@
+1------------
+inital solution size 11
+find optimal..
+final best:10
+search steps is 46012, seed is 10
+time cost 22.320000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 34991, seed is 11
+time cost 16.880000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 7706, seed is 12
+time cost 3.770000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 16801, seed is 13
+time cost 8.260000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 56209, seed is 14
+time cost 27.190000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 15518, seed is 15
+time cost 7.600000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 58784, seed is 16
+time cost 28.570000 s
+inital solution size 10
+find optimal..
+final best:10
+search steps is 1, seed is 17
+time cost 0.010000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 13727, seed is 18
+time cost 6.780000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 9942, seed is 19
+time cost 4.920000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 3145, seed is 20
+time cost 1.530000 s
+
+2------------
+inital solution size 11
+find optimal..
+final best:10
+search steps is 30612, seed is 10
+time cost 15.040000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 122707, seed is 11
+time cost 60.080000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 136453, seed is 12
+time cost 66.730000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 10439, seed is 13
+time cost 5.120000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 126643, seed is 14
+time cost 61.180000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 6820, seed is 15
+time cost 3.340000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 1485, seed is 16
+time cost 0.730000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 121819, seed is 17
+time cost 58.530000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 71412, seed is 18
+time cost 34.310000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 38214, seed is 19
+time cost 18.670000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 29783, seed is 20
+time cost 14.710000 s
+
+3------------
+inital solution size 11
+find optimal..
+final best:10
+search steps is 33880, seed is 10
+time cost 16.530000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 62424, seed is 11
+time cost 29.840000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 180250, seed is 12
+time cost 87.150000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 65920, seed is 13
+time cost 32.200000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 17418, seed is 14
+time cost 8.500000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 27122, seed is 15
+time cost 13.150000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 47696, seed is 16
+time cost 23.080000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 1436, seed is 17
+time cost 0.710000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 64445, seed is 18
+time cost 30.890000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 25920, seed is 19
+time cost 12.590000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 56243, seed is 20
+time cost 27.500000 s
+
+4------------
+inital solution size 11
+find optimal..
+final best:10
+search steps is 161710, seed is 10
+time cost 78.280000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 72020, seed is 11
+time cost 34.800000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 15327, seed is 12
+time cost 7.390000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 13343, seed is 13
+time cost 6.640000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 118659, seed is 14
+time cost 57.420000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 15955, seed is 15
+time cost 7.720000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 3082, seed is 16
+time cost 1.480000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 15538, seed is 17
+time cost 7.620000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 21519, seed is 18
+time cost 10.370000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 26560, seed is 19
+time cost 13.100000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 59240, seed is 20
+time cost 28.970000 s
+
+5------------
+inital solution size 11
+find optimal..
+final best:10
+search steps is 13832, seed is 10
+time cost 6.640000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 63622, seed is 11
+time cost 30.620000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 5476, seed is 12
+time cost 2.660000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 18178, seed is 13
+time cost 8.950000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 2032, seed is 14
+time cost 1.000000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 19572, seed is 15
+time cost 9.440000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 12948, seed is 16
+time cost 6.360000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 59709, seed is 17
+time cost 29.000000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 109370, seed is 18
+time cost 52.750000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 57439, seed is 19
+time cost 29.330000 s
+inital solution size 11
+find optimal..
+final best:10
+search steps is 50801, seed is 20
+time cost 25.150000 s
+

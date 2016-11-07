@@ -1,0 +1,44 @@
+inital solution size 2117
+final best:1798
+search steps is 100000000, seed is 10
+time cost 1291.390000 s
+inital solution size 2135
+final best:1800
+search steps is 100000000, seed is 11
+time cost 1288.630000 s
+inital solution size 2110
+final best:1798
+search steps is 100000000, seed is 12
+time cost 1301.570000 s
+inital solution size 2109
+final best:1800
+search steps is 100000000, seed is 13
+time cost 1297.930000 s
+inital solution size 2106
+final best:1800
+search steps is 100000000, seed is 14
+time cost 1284.640000 s
+inital solution size 2115
+final best:1800
+search steps is 100000000, seed is 15
+time cost 1290.580000 s
+inital solution size 2103
+final best:1798
+search steps is 100000000, seed is 16
+time cost 1305.170000 s
+inital solution size 2106
+final best:1798
+search steps is 100000000, seed is 17
+time cost 1311.710000 s
+inital solution size 2112
+final best:1800
+search steps is 100000000, seed is 18
+time cost 1297.890000 s
+inital solution size 2117
+final best:1800
+search steps is 100000000, seed is 19
+time cost 1295.420000 s
+inital solution size 2118
+final best:1798
+search steps is 100000000, seed is 20
+time cost 1311.210000 s

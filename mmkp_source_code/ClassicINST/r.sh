@@ -1,0 +1,13 @@
+#!/bin/bash
+
+MAX_IT=1000;
+
+inst=(I01 I02 I03 I04 I05 I06 I07 I08 I09 I10 I11 I12 I13);
+
+for ((i=3; i<4; i=i+1)) do {
+	for (( j=1; j<=100; j=j+1)) do {
+		./solve ${inst[$i]}.txt $MAX_IT $j >> ./result/${inst[$i]}.result; 
+	}
+	done
+} 
+done
